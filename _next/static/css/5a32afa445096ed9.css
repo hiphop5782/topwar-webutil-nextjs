@@ -1,0 +1,1 @@
+.typing-area{box-sizing:border-box}.typing-area.text-cursor{padding-right:.5em;background-image:url(/images/screen/text-cursor.png);background-repeat:no-repeat;background-size:.45rem 80%;background-position:100%}.typing-area.flicker{animation:flicker 1s infinite}@keyframes flicker{0%,40%{background-position:0 -50px}40.1%,to{background-position:100%}}
