@@ -1,8 +1,7 @@
 "use client";
 
 import { useCallback, useMemo, useState } from "react";
-import "@/app/globals.css";
-import styles from "./page.module.css";
+import styles from "@/styles/information/base.module.css";
 import baseTypeJson from "@/assets/json/base-type.json";
 import baseListJson from "@/assets/json/base.json";
 
